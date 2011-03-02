@@ -1,0 +1,3 @@
+[submodule "nodestalker"]
+	path = nodestalker
+	url = git://github.com/pascalopitz/beanspector.git
