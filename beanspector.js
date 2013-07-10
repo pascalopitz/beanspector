@@ -1,4 +1,5 @@
-var bt = require('./nodestalker/lib/beanstalk_client');
+#!/usr/bin/env node
+var bt = require('nodestalker/lib/beanstalk_client');
 
 /**
 * default variables

@@ -1,0 +1,22 @@
+{
+    "name": "beanspector"
+    , "description": "A Beanstalk inspector utility for the CLI"
+    , "keywords": ["beanstalkd", "queue", "nodestalker", "beanspector"]
+    , "version": "0.1.0"
+    , "author": "Pascal Opitz <contact@pascalopitz.com> (http://blog.pascalopitz.com)"
+    , "repository": {
+        "type": "git"
+        , "url": "git://github.com/pascalopitz/beanspector.git"
+    }
+    , "bin": {
+        "beanspector": "./beanspector.js"
+    }
+    , "dependencies": {
+        "nodestalker": "=0.1.8"
+    }
+    , "licenses":
+    [{
+        "type": "MIT"
+        , "url": "http://github.com/pascalopitz/beanspector/raw/master/LICENSE"
+    }]
+}
